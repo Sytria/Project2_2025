@@ -1,8 +1,8 @@
 import smtplib
 from email.message import EmailMessage
 
-from_email_addr ="202483890028@nuist.edu.cn"
-from_email_pass ="qldm0525"
+from_email_addr ="2209984936@qq.com"
+from_email_pass ="yjckbhwatwdyeadj"
 to_email_addr ="3901966032@qq.com"
 
 msg = EmailMessage()
